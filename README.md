@@ -27,5 +27,10 @@ If you want to run the notebook from Google Colab, put the data into your Google
 ## Usage
 It is adviced to copy the Colab notebook to your own Google Drive before connecting to a runtime an running the code, though it is not strictly required. Note, however, that if you don't copy it, any changes you make, and also all results, will be discarded when you close the notebook.
 
-To run the Colab notebook, you need to download the data zip file, and unpack it into your Google Drive. Then, after running the cell that connects to your Google Drive, right click the folder "PPMI-classification" and copy the path. You will need to enter it in the subsequent cell, replacing the predefined location.
+To run the Colab notebook, you need to download the data zip file from this repository's "data" folder, and unpack it into your Google Drive. Then, after running the cell that connects to your Google Drive, right click the folder "PPMI-classification" and copy the path. 
+
+![right click](/doc/ColabMountGDrive_2.PNG?raw=true "Mount Google Drive")
+
+You will need to enter it in the subsequent cell, replacing the predefined location.
+
 
