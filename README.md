@@ -23,3 +23,9 @@ The data was then split randomly into a training and a validation set. As we tes
 The data as used in the publication can be downloaded here:
 
 If you want to run the notebook from Google Colab, put the data into your Google Drive, and adapt the path below in the respective cell.
+
+## Usage
+It is adviced to copy the Colab notebook to your own Google Drive before connecting to a runtime an running the code, though it is not strictly required. Note, however, that if you don't copy it, any changes you make, and also all results, will be discarded when you close the notebook.
+
+To run the Colab notebook, you need to download the data zip file, and unpack it into your Google Drive. Then, after running the cell that connects to your Google Drive, right click the folder "PPMI-classification" and copy the path. You will need to enter it in the subsequent cell, replacing the predefined location.
+
