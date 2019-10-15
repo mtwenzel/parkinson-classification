@@ -1,9 +1,20 @@
 # Parkinson SPECT classification
+
+## Transfer learning Inception V3
 Classifying SPECT scans of Parkinson's Disease which are available from the [PPMI repository](https://www.ppmi-info.org/access-data-specimens/download-data/). You can open the notebook file in Goolge Colab directly from here:
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/mtwenzel/parkinson-classification/blob/master/PPMI-InceptionV3.ipynb)
 
 Note that due to the Colab markup, the notebook does not properly display in GitHub.
+
+## Uncertainty aware classification
+Classifying SPECT scans of Parkinson's Disease which are available from the [PPMI repository](https://www.ppmi-info.org/access-data-specimens/download-data/). 
+
+This work pertains to unpublished research and is not publicly available before acceptance with a journal. Therefore, the notebook cannot be run by unauthorized users, and does not reveal any new material.
+
+You can open the notebook file in Goolge Colab directly from here:
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/mtwenzel/parkinson-classification/blob/master/PPMI_Uncertainty.ipynb)
 
 ## License
 Licensed under [this](LICENSE) license.
