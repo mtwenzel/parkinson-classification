@@ -24,8 +24,7 @@ This notebook shows how we performed the experiment to fine-tune the Inception V
 
 The notebook is optimized to work with Google Colab. It hides all code by default so that you can run it sequentially from top to bottom. If you want to see the implementation, just double-click into any cell, and it will open in a side-by-side view.
 
-This code is part of the publication 
-> Publication reference and [link](dummy-link-not-working-yet) to be inserted after publishing.
+This code is part of the publication [Automatic classification of dopamine transporter SPECT: deep convolutional neural networks can be trained to be robust with respect to variable image characteristics](https://link.springer.com/content/pdf/10.1007/s00259-019-04502-5.pdf).
 
 The data are a derivative of the DAT scans available from the [PPMI repository](https://www.ppmi-info.org/access-data-specimens/download-data/). They were processed to represent the central 5 slices of the putamen in one slice by averaging them. For details, please refer to the paper.
 
