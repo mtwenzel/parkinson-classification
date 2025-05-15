@@ -30,7 +30,7 @@ The data are a derivative of the DAT scans available from the [PPMI repository](
 
 The data was then split randomly into a training and a validation set. As we tested the performance on an independant test set drawn from clinical routine which cannot be published, this notebook does not contain testing of the trained classifier.
 
-The data as used in the publication can be downloaded here:
+The data as used in the publication can be downloaded from the Data folder in this repository.
 
 If you want to run the notebook from Google Colab, put the data into your Google Drive, and adapt the path below in the respective cell.
 
