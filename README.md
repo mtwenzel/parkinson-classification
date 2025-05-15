@@ -1,7 +1,7 @@
 # Parkinson SPECT classification
 
 ## Transfer learning Inception V3
-Classifying SPECT scans of Parkinson's Disease which are available from the [PPMI repository](https://www.ppmi-info.org/access-data-specimens/download-data/). You can open the notebook file in Goolge Colab directly from here:
+Classifying SPECT scans of Parkinson's Disease which are available from the [PPMI repository](https://www.ppmi-info.org/access-data-specimens/download-data/). You can open the notebook file in Google Colab directly from here:
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/mtwenzel/parkinson-classification/blob/master/PPMI-InceptionV3.ipynb)
 
@@ -12,7 +12,7 @@ Classifying SPECT scans of Parkinson's Disease which are available from the [PPM
 
 This work pertains to unpublished research and is not publicly available before acceptance with a journal. Therefore, the notebook cannot be run by unauthorized users, and does not reveal any new material.
 
-You can open the notebook file in Goolge Colab directly from here:
+You can open the notebook file in Google Colab directly from here:
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/mtwenzel/parkinson-classification/blob/master/PPMI_Uncertainty.ipynb)
 
@@ -35,6 +35,6 @@ The data as used in the publication can be downloaded here:
 If you want to run the notebook from Google Colab, put the data into your Google Drive, and adapt the path below in the respective cell.
 
 ## Usage
-It is adviced to copy the Colab notebook to your own Google Drive before connecting to a runtime an running the code, though it is not strictly required. Note, however, that if you don't copy it, any changes you make, and also all results, will be discarded when you close the notebook.
+It is advised to copy the Colab notebook to your own Google Drive before connecting to a runtime and running the code, though it is not strictly required. Note, however, that if you don't copy it, any changes you make, and also all results, will be discarded when you close the notebook.
 
 The data (under the ./data/ path in the repository) will be downloaded and unzipped automatically. In case you are running the notebook in a hosted runtime, the download will be temporary.
